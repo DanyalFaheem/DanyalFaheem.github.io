@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, orange, black);
+    background: linear-gradient(to right, #fc9803, #80fc03);
     font-family: 'Courier New', Courier, monospace !important;
 }
 
@@ -11,11 +11,11 @@ body {
 
 .title {
     font-size: 1.2rem;
-    align-content: center;
+    justify-self: center;
 }
 
 .skills {
-    align-self: auto;
+    justify-self: auto;
     margin: auto;
 }
 
