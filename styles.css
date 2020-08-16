@@ -2,31 +2,32 @@ body {
     background: linear-gradient(to right, #fc9803,#80fc03);
     font-family: 'Courier New', Courier, monospace !important;
     color: black;
+    text-align: center;
+    margin: auto;
 }
 
 .interesting {
     block-size: auto;
     border: white 10px;
-    justify-content: center;
+    text-align: center;
 }
 
 .title {
-    font-size: 1.2rem;
-    justify-content: center;
+    font-weight: bolder;
+    text-align: center;
 }
 
 .skills {
-    justify-content: auto;
+    text-align: center;
     margin: auto;
 }
 
 .logo {
-    size: auto;
+    size: 30px 40px;
 }
 
 .logo:hover {
     transform: skewZ(10deg);
-    transition-delay: 1s;
 }
 
 .bold {
