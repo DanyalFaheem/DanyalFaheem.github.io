@@ -1,4 +1,29 @@
 body {
-    background: linear-gradient(right to left, orange);
+    background: linear-gradient(to right, orange, black);
     font-family: 'Courier New', Courier, monospace !important;
+}
+
+.interesting {
+    block-size: auto;
+    border: white 10px;
+    align-content: center;
+}
+
+.title {
+    font-size: 1.2rem;
+    align-content: center;
+}
+
+.skills {
+    align-self: auto;
+    margin: auto;
+}
+
+.logo:hover {
+    -ms-transform-origin-y: 1.2rem;
+}
+
+.bold {
+    font-size: 1.3rem;
+    color: red;
 }
