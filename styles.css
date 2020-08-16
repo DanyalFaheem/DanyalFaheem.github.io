@@ -1,6 +1,7 @@
 body {
     background: linear-gradient(to right, #fc9803,#80fc03);
     font-family: 'Courier New', Courier, monospace !important;
+    color: black;
 }
 
 .interesting {
@@ -19,11 +20,17 @@ body {
     margin: auto;
 }
 
+.logo {
+    size: auto;
+}
+
 .logo:hover {
-    transform: skewY(10deg);
+    transform: skewZ(10deg);
+    transition-delay: 1s;
 }
 
 .bold {
+    font-weight: bold;
     font-size: 1.3rem;
-    color: red;
+    color: purple;
 }
