@@ -1,26 +1,26 @@
 body {
-    background: linear-gradient(to right, #fc9803, #80fc03);
+    background: linear-gradient(to right, #fc9803,#80fc03);
     font-family: 'Courier New', Courier, monospace !important;
 }
 
 .interesting {
     block-size: auto;
     border: white 10px;
-    align-content: center;
+    justify-content: center;
 }
 
 .title {
     font-size: 1.2rem;
-    justify-self: center;
+    justify-content: center;
 }
 
 .skills {
-    justify-self: auto;
+    justify-content: auto;
     margin: auto;
 }
 
 .logo:hover {
-    -ms-transform-origin-y: 1.2rem;
+    transform: skewY(10deg);
 }
 
 .bold {
