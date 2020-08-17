@@ -25,7 +25,6 @@ body {
 .logo {
     margin-right: 20rem;
     margin-left: 20rem;
-    size: height 30px width 40px;
     background-color: blue;
 }
 
@@ -36,11 +35,16 @@ body {
 .bold {
     font-weight: bold;
     font-size: 1.3rem;
-    color: black;
 }
 
 .description {
     background-color: slateblue;
     margin-right: 10rem;
     margin-left: 10rem;
+}
+
+img {
+    border-radius: 5px;
+    width: 30%;
+    height: 10%;
 }
