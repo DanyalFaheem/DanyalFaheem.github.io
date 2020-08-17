@@ -23,6 +23,8 @@ body {
 }
 
 .logo {
+    margin-right: 20rem;
+    margin-left: 20rem;
     size: height 30px width 40px;
     background-color: blue;
 }
@@ -39,6 +41,6 @@ body {
 
 .description {
     background-color: slateblue;
-    margin-right: 5rem;
-    margin-left: 5rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
 }
