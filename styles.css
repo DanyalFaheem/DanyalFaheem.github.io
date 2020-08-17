@@ -23,15 +23,22 @@ body {
 }
 
 .logo {
-    size: 30px 40px;
+    size: height 30px width 40px;
+    background-color: blue;
 }
 
 .logo:hover {
-    transform: skewZ(10deg);
+    transform: skewY(10deg);
 }
 
 .bold {
     font-weight: bold;
     font-size: 1.3rem;
-    color: purple;
+    color: black;
+}
+
+.description {
+    background-color: slateblue;
+    margin-right: 5rem;
+    margin-left: 5rem;
 }
