@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://danyalfaheem.github.io/Mining-Massive-Datasets/sitemap.xml
+Sitemap: https://danyalfaheem.github.io/sitemap.xml
