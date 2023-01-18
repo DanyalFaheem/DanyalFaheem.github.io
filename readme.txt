@@ -1,4 +1,7 @@
-UNIQUE – is a modern, elegant and clean one page html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and startup company.
+Bootstrap Responsive Template
+
+I am HTML5 responsive portfolio resume template is clean multi purpose template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer’s portfolio. This is a responsive web template you can use for personal portfolio’s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
+
 
 Key features
 -------------
@@ -21,6 +24,17 @@ Credits :
 => For more free web themes: http://webthemez.com
 => Framework : http://getbootstrap.com
 
+
+Important Note:
+---------------
+To remove backlink from the template, you need to donate to remove the backlink from the template.
+Any question contact us: webthemez@gmail.com
+
+
 License :
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+
+
+Note:
+All images user here is for demo purpose only, we are not responsible for any copyrights.
